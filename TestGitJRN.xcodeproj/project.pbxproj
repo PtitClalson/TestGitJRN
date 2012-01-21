@@ -20,11 +20,11 @@
 		9CBD04EA14CB1E6C006A5307 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		9CBD04EC14CB1E6C006A5307 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9CBD04EE14CB1E6C006A5307 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		9CBD04F214CB1E6C006A5307 /* TestGitJRN-Info.plist */ = {isa = PBXFileReference; path = "TestGitJRN-Info.plist"; sourceTree = "<group>"; };
+		9CBD04F214CB1E6C006A5307 /* TestGitJRN-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestGitJRN-Info.plist"; sourceTree = "<group>"; };
 		9CBD04F414CB1E6C006A5307 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9CBD04F614CB1E6C006A5307 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		9CBD04F814CB1E6C006A5307 /* TestGitJRN-Prefix.pch */ = {isa = PBXFileReference; path = "TestGitJRN-Prefix.pch"; sourceTree = "<group>"; };
-		9CBD04F914CB1E6C006A5307 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		9CBD04F814CB1E6C006A5307 /* TestGitJRN-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestGitJRN-Prefix.pch"; sourceTree = "<group>"; };
+		9CBD04F914CB1E6C006A5307 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		9CBD04FA14CB1E6C006A5307 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
